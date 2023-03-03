@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ace-aitech
+- 👋 Hi, I’m  A.Ascencio @ace-aitech
 - 👀 I’m interested in applying deep learning to improve life quality
 - 🌱 I’m currently learning ML for trading
 - 💞️ I’m looking to collaborate on life science, environmental and art projects
